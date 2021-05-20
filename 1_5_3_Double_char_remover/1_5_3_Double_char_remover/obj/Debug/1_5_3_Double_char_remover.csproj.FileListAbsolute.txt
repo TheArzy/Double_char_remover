@@ -1,0 +1,14 @@
+C:\Users\TheArzy\source\repos\1_5_3_Double_char_remover\1_5_3_Double_char_remover\bin\Debug\1_5_3_Double_char_remover.exe.config
+C:\Users\TheArzy\source\repos\1_5_3_Double_char_remover\1_5_3_Double_char_remover\bin\Debug\1_5_3_Double_char_remover.exe
+C:\Users\TheArzy\source\repos\1_5_3_Double_char_remover\1_5_3_Double_char_remover\bin\Debug\1_5_3_Double_char_remover.pdb
+C:\Users\TheArzy\source\repos\1_5_3_Double_char_remover\1_5_3_Double_char_remover\obj\Debug\1_5_3_Double_char_remover.csprojAssemblyReference.cache
+C:\Users\TheArzy\source\repos\1_5_3_Double_char_remover\1_5_3_Double_char_remover\obj\Debug\1_5_3_Double_char_remover.csproj.CoreCompileInputs.cache
+C:\Users\TheArzy\source\repos\1_5_3_Double_char_remover\1_5_3_Double_char_remover\obj\Debug\1_5_3_Double_char_remover.exe
+C:\Users\TheArzy\source\repos\1_5_3_Double_char_remover\1_5_3_Double_char_remover\obj\Debug\1_5_3_Double_char_remover.pdb
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_3_Double_char_remover\1_5_3_Double_char_remover\bin\Debug\1_5_3_Double_char_remover.exe.config
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_3_Double_char_remover\1_5_3_Double_char_remover\bin\Debug\1_5_3_Double_char_remover.exe
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_3_Double_char_remover\1_5_3_Double_char_remover\bin\Debug\1_5_3_Double_char_remover.pdb
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_3_Double_char_remover\1_5_3_Double_char_remover\obj\Debug\1_5_3_Double_char_remover.csprojAssemblyReference.cache
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_3_Double_char_remover\1_5_3_Double_char_remover\obj\Debug\1_5_3_Double_char_remover.csproj.CoreCompileInputs.cache
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_3_Double_char_remover\1_5_3_Double_char_remover\obj\Debug\1_5_3_Double_char_remover.exe
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_3_Double_char_remover\1_5_3_Double_char_remover\obj\Debug\1_5_3_Double_char_remover.pdb
